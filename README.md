@@ -1,5 +1,7 @@
 # The-Zen-of-Python
 
+<img src="https://user-images.githubusercontent.com/74459082/189894537-e1e5c9f7-b2ac-4c5a-a46a-94e4db8756b7.jpg" alt="Python" width="250" height="250" title="Python">
+
 The Zen of Python is a collection of **19** principles for writing computer programs that influence the design of the Python programming language. Software engineer Tim Peters wrote this set of principles and posted it on the Python mailing list in 1999.
 
 You can view it by writing the bleow command and running it in python:
@@ -32,3 +34,5 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 
 The Purpose of this repo is to add some guided python lessons to improve the language skills and reach it to the next level.
+
+
