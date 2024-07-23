@@ -1,0 +1,8 @@
+numpy>=1.21.0
+
+[dev]
+pytest
+sphinx
+
+[docs]
+sphinx

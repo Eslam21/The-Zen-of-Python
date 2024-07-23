@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: numpy-toolbox
+Version: 0.1
+Summary: A toolbox for numerical operations with NumPy
+Home-page: https://github.com/username/numpy_toolbox
+Author: Eslam Mohamed
+Author-email: your.email@example.com
+License: MIT
+Keywords: numpy numerical operations matrix statistics
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: docs
+
+# numpy_toolbox
+
+`numpy_toolbox` is a Python package designed to simplify numerical operations using NumPy. It provides a collection of utility functions that facilitate array manipulations, mathematical computations, and random matrix generation.
+
+## Features
+- **Array Operations**: Functions to compute statistical properties of arrays, such as mean, median, and standard deviation.
+- **Matrix Operations**: Tools for matrix multiplication and other linear algebra operations.
+- **Random Matrix Generation**: Methods to create matrices with random values for testing and simulations.
+
+## Installation
+To install `numpy_toolbox`, use the following pip command:
+```bash
+pip install numpy_toolbox

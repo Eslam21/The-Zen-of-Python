@@ -1,0 +1,2 @@
+[console_scripts]
+numpy-toolbox-cli = numpy_toolbox.cli:main
