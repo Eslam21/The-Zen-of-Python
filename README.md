@@ -2,6 +2,12 @@
 
 <img src="https://user-images.githubusercontent.com/74459082/189894537-e1e5c9f7-b2ac-4c5a-a46a-94e4db8756b7.jpg" alt="Python" width="250" height="250" title="Python">
 
+
+## What's in the repository?
+This repository contains codes, markdown and Jupyter notebooks that explore some of the fundamental concepts in Python programming. The notebooks are inspired by the famous "Zen of Python" poem, which encapsulates the guiding principles of Python philosophy.
+
+The information in here are intended to be interactive and engaging, with code examples, explanations, and exercises to help you deepen your understanding of Python concepts.
+
 ## What is the zen of python ?
 The Zen of Python is a collection of **19** principles for writing computer programs that influence the design of the Python programming language. Software engineer Tim Peters wrote this set of principles and posted it on the Python mailing list in 1999.
 
@@ -33,10 +39,7 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
-## What's in the repository?
-This repository contains Jupyter notebooks that explore some of the fundamental concepts in Python programming. The notebooks are inspired by the famous "Zen of Python" poem, which encapsulates the guiding principles of Python philosophy.
 
-The notebooks are intended to be interactive and engaging, with code examples, explanations, and exercises to help you deepen your understanding of Python concepts.
 
 
 
