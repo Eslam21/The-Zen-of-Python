@@ -71,7 +71,7 @@ setup(
 
 ```
 
-Follow [This](relative/path/to/target.md) for further explaination of the purpose and details of each parameter used
+Follow [This](/Setup_parameters.md) for further explaination of the purpose and details of each parameter used
 
 ### Step 3: Implement Functions in `operations.py`
 
