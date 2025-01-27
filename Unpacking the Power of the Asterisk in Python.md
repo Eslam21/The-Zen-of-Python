@@ -1,8 +1,4 @@
-Here's an improved and more organized version of the notebook:
-
 # The Asterisk Operator in Python
-
-Created: October 2, 2022 10:54 PM
 
 The asterisk is an operator in Python that has multiple uses. It is commonly known as the multiplication symbol when used between two numbers (`2 * 3`will produce `6`), but it also has some other powerful capabilities when used in other contexts.
 
